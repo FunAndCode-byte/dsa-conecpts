@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module StarsAndShit_Patterns {
-}
